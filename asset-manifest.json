@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/VijayVijay02/react-game/static/css/main.46941f85.chunk.css",
-    "main.js": "/VijayVijay02/react-game/static/js/main.04da0a9d.chunk.js",
-    "main.js.map": "/VijayVijay02/react-game/static/js/main.04da0a9d.chunk.js.map",
-    "runtime-main.js": "/VijayVijay02/react-game/static/js/runtime-main.7c21d313.js",
-    "runtime-main.js.map": "/VijayVijay02/react-game/static/js/runtime-main.7c21d313.js.map",
-    "static/js/2.1befd159.chunk.js": "/VijayVijay02/react-game/static/js/2.1befd159.chunk.js",
-    "static/js/2.1befd159.chunk.js.map": "/VijayVijay02/react-game/static/js/2.1befd159.chunk.js.map",
-    "index.html": "/VijayVijay02/react-game/index.html",
-    "precache-manifest.2167bec69baecd0adad53a83e8978e8b.js": "/VijayVijay02/react-game/precache-manifest.2167bec69baecd0adad53a83e8978e8b.js",
-    "service-worker.js": "/VijayVijay02/react-game/service-worker.js",
-    "static/css/main.46941f85.chunk.css.map": "/VijayVijay02/react-game/static/css/main.46941f85.chunk.css.map",
-    "static/js/2.1befd159.chunk.js.LICENSE.txt": "/VijayVijay02/react-game/static/js/2.1befd159.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/VijayVijay02/react-game/static/media/Pixel-LCD-7.e2897552.woff",
-    "static/media/bg.png": "/VijayVijay02/react-game/static/media/bg.2810fe6b.png"
+    "main.css": "/react-game/static/css/main.c84d2084.chunk.css",
+    "main.js": "/react-game/static/js/main.04da0a9d.chunk.js",
+    "main.js.map": "/react-game/static/js/main.04da0a9d.chunk.js.map",
+    "runtime-main.js": "/react-game/static/js/runtime-main.5660c68a.js",
+    "runtime-main.js.map": "/react-game/static/js/runtime-main.5660c68a.js.map",
+    "static/js/2.ab3e8625.chunk.js": "/react-game/static/js/2.ab3e8625.chunk.js",
+    "static/js/2.ab3e8625.chunk.js.map": "/react-game/static/js/2.ab3e8625.chunk.js.map",
+    "index.html": "/react-game/index.html",
+    "precache-manifest.d1e64eafb90646dc4970fb2a5a2942c5.js": "/react-game/precache-manifest.d1e64eafb90646dc4970fb2a5a2942c5.js",
+    "service-worker.js": "/react-game/service-worker.js",
+    "static/css/main.c84d2084.chunk.css.map": "/react-game/static/css/main.c84d2084.chunk.css.map",
+    "static/js/2.ab3e8625.chunk.js.LICENSE.txt": "/react-game/static/js/2.ab3e8625.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-game/static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.png": "/react-game/static/media/bg.2810fe6b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c21d313.js",
-    "static/js/2.1befd159.chunk.js",
-    "static/css/main.46941f85.chunk.css",
+    "static/js/runtime-main.5660c68a.js",
+    "static/js/2.ab3e8625.chunk.js",
+    "static/css/main.c84d2084.chunk.css",
     "static/js/main.04da0a9d.chunk.js"
   ]
 }
